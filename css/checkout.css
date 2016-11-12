@@ -1,0 +1,25 @@
+body {
+	padding-top: 70px;
+}
+
+h1 {
+	display: none;
+}
+
+.navbar {
+	display: flex;
+	align-items: center;
+	margin: 0;
+}
+
+.navbar .glyphicon {
+	color: yellow;
+}
+
+dl dd {
+	text-transform: uppercase;
+}
+
+.form-control:invalid {
+	border: 1px solid #cc0000;
+}
